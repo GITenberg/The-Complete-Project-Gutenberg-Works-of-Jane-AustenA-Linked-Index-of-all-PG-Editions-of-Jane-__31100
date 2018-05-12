@@ -1,0 +1,38 @@
+_repo: The-Complete-Project-Gutenberg-Works-of-Jane-AustenA-Linked-Index-of-all-PG-Editions-of-Jane-__31100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2010-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Love stories, English'
+tableOfContents: Persuasion -- Northanger Abbey -- Mansfield Park -- Emma -- Lady
+  Susan -- Love and freindship [sic] and other early works -- Pride and prejudice
+  -- Sense and sensibility.
+title: 'The Complete Project Gutenberg Works of Jane Austen
+
+  A Linked Index of all PG Editions of Jane Austen'
+url: http://www.gutenberg.org/ebooks/31100
